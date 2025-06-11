@@ -22,5 +22,4 @@ An interactive Power BI report analyzing retail sales and returns data. This pro
 
 3. Explore the visualizations, slicers, and drillthrough pages.
 
-## 📁 Project Structure
 
